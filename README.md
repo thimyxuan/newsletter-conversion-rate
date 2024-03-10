@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/newsletter-conversion-rate.git```
+```$ git clone https://github.com/thimyxuan/newsletter-conversion-rate.git```
 
 ## Dépendances
 
